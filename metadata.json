@@ -1,0 +1,8 @@
+{
+  "name": "AMP Tech Industrial Solutions Clone",
+  "description": "A professional, modern industrial solutions web application showcasing CNC machines, automation, and industrial services, featuring an AI-powered technical assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
